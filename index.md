@@ -1,6 +1,6 @@
 ---
-title       : 
-subtitle    : 
+title       : Integrate ShareThis Buttons
+subtitle    : Slidify
 author      : 
 job         : 
 framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
@@ -10,16 +10,9 @@ widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
 ---
 
-## Read-And-Delete
+## README
 
-1. Edit YAML front matter
-2. Write using R Markdown
-3. Use an empty line followed by three dashes to separate slides!
-
---- .class #id 
-
-## Slide 2
-
+This is an attempt to integrate `sharethis` into slidify.
 
 
 
