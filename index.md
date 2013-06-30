@@ -1,5 +1,5 @@
 ---
-title       : Integrate ShareThis Buttons
+title       : Integrate AddThis Buttons
 subtitle    : Slidify
 author      : 
 job         : 
@@ -12,7 +12,8 @@ mode        : selfcontained # {standalone, draft}
 
 ## README
 
-This is an attempt to integrate `sharethis` into slidify.
+This is an attempt to integrate `addthis` into slidify.
+
 
 
 
